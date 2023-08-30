@@ -1,9 +1,13 @@
 code {
     color:rgb(24, 20, 28);
-    font-size: 16px;
+    font-size: 14px;
 }
 p {
+    width: 60px;
+    height: 18px;
     color:rgb(64, 11, 117);
-    font-size: 12px;
+    font-size: 16px;
+    padding: 5px;
+    background-color: rgb(18, 229, 46);
 }
 
